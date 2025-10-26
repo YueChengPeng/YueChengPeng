@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @YueChengPeng, majoring in Industrial Design of Zhejiang University, China => now HCI Master in University of Washington
-- 👀 I’m interested in stuff that require both design & coding (data visualization, soft robotics, shape-changing materials, .etc)
-- 🌱 I’m currently learning parametric design
+- 👋 Hi, I’m @YueChengPeng, PhD student in Human Centered Design & Engineering, University of Washington
+- 👀 My research focuses on Human–Computer Interaction, AI-assisted creative workflows, and personal & digital fabrication.
 - 📫 How to reach me: ychpeng@uw.edu
 
 <!---
